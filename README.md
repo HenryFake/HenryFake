@@ -1,4 +1,4 @@
-# ¡Hola! Soy Henry Callupe 👋
+# ¡Hola! Soy Henry Lus Callupe Ancco 👋
 
 ## Sobre mí
 
@@ -33,6 +33,7 @@ Me apasiona construir soluciones prácticas y escalables, desde apps móviles ha
 | [**AkuDent**](https://github.com/HenryFake/software-ehealth-akudent) | Sistema web para gestión clínica dental (agenda, historial, pacientes) | Django, SQL Server, Azure App Service        |
 | [**Tralalero Chat IA**](https://github.com/HenryFake/Tralalero-Chat-IA) | App conversacional con personajes de Italian Brainrot | Flutter, Firebase, IA, AdMob                 |
 | [**KoiMori Chat Rol**](https://github.com/HenryFake/KoiMori-Chat-Rol-Ilimitado) | App conversacional con personajes de anime/caricaturas/ficticios **(en desarrollo)** | Flutter, Firestore                           |
+| [**Vision Auditiva**](https://github.com/xstefano/vision_auditiva_flutter) | Aplicación móvil usando flutter, que funciona como un asistente de ayuda para analizar imágenes y responder preguntas usando tecnologías de reconocimiento de imágenes y el modelo de GPT 3.5 | Flutter, Computer Vision, Python                           |
 | **Automatizaciones** | Scripts personalizados para tareas repetitivas, scraping y validaciones automáticas | Python, Selenium, Playwright                 |
 
 ---
